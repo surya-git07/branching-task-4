@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  hosts: [alpha, beta
+database:
+  url: db.internal
