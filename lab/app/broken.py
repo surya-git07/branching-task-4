@@ -3,3 +3,4 @@ def total(items)
 
 
 print(total([1, 2, 3]))
+# revision 12
